@@ -155,32 +155,6 @@ If you’re a tech company interested in supporting CheckCle, please contact the
 
 ---
 
-
-## 👥 Contributors
-Thank you for contributing and continuously making CheckCle better, you're awesome 🫶
-
-[![](https://contrib.rocks/image?repo=operacle/checkcle)](https://github.com/operacle/checkcle/graphs/contributors)
-
----
-
-## 🤝 Ways to Contribute
-
-Here are some ways you can help improve CheckCle:
-
-- 🐞 **Report Bugs** – Found a glitch? Let us know by opening a [GitHub Issue](https://github.com/operacle/checkcle/issues).
-- 🌟 **Suggest Features** – Have an idea? Start a [Discussion](https://github.com/operacle/checkcle/discussions) or open a Feature Request issue.
-- 🛠 **Submit Pull Requests** – Improve the code, fix bugs, add features, or enhance the docs.
-- 📝 **Improve Documentation** – Even a typo fix helps!
-- 🌍 **Spread the Word** – Star ⭐ the [CheckCle](https://github.com/operacle/checkcle.git)  repo, share it on socials, and invite others to contribute!
-
----
-
-## 🌍 Stay Connected
-- Website: [checkcle.io](https://checkcle.io)
-- Documentation: [docs.checkcle.io](https://docs.checkcle.io) | Big thanks to [GitBook](https://github.com/gitbookio) for sponsoring the OSS site plan for CheckCle!
-- Chat on Discord: Join our community [@discord](https://discord.gg/xs9gbubGwX)
-- Follow us on X: [@checkcle_oss](https://x.com/checkcle_oss)
-
 ## 📜 License
 
 CheckCle is released under the MIT License.
